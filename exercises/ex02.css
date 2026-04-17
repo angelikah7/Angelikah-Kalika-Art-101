@@ -1,0 +1,29 @@
+p { color: blue; font-size: large; }
+
+p strong {font-weight: nornal;} 
+
+li { text-align: center; }
+
+html { font-family: Bitcount Grid Double; background-color: rgb(72, 192, 72); }
+
+li { color: yellow; }
+h1 { color: pink; }
+em { color: orange; }
+
+span {background-color: yellow;}
+
+.highlight_01 {background-color: yellow;}
+
+.highlight_02 {background-color: white;}
+
+.highlight_03 {background-color: lightsalmon;}
+
+.highlight_04 {background-color: orangered;}
+
+#pink-huge { width: 150px}
+#pink-medium { width: 99px}
+#pink-small { width: 50px}
+
+.test-div { background: lemonchiffon; margin: 30px;px; padding: 40px;}
+
+.my-flex {display: flex;}
